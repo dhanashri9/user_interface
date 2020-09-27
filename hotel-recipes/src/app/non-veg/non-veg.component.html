@@ -1,0 +1,40 @@
+ 
+<app-header></app-header>
+<div class="image">
+ <mat-list>
+    <div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-4">  
+  
+  <div *ngFor="let users of Users | filter1: UsersFilter;">
+    <button mat-button class="button-style"  (click)="onRowClicked(users)" >{{users.name}}</button>
+  <mat-divider></mat-divider>   
+
+  </div>
+
+</div>
+<div class="col-sm-8">
+<div *ngIf="selectedRow">
+  
+  
+
+<img [src]="selectedRow.imagePath" alt="" class="img-responsive" style="max-height:300px">
+<br><br>
+<h1 style="color: MediumSeaGreen ; font-size: 30px">Ingrediants:  </h1>
+<h2>{{selectedRow.ingrediant}}</h2>
+<br>
+<h1 style="color: MediumSeaGreen ; font-size: 30px">Recipe :</h1>
+<h2>{{selectedRow.recipe}}</h2>
+</div>
+</div>
+</div></div>
+</mat-list>
+</div>
+
+
+
+
+
+
+
+ 

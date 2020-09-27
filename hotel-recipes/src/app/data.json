@@ -1,0 +1,73 @@
+[
+
+    {
+    "id": 1,
+    "name": "Dosa",
+    "imagePath": "https://sukhis.com/wp-content/uploads/2020/01/Dosa-500x400.jpg",
+    "ingrediant": "3 Cups Rice ,1 Cup Urad Dal ,3/4 Teaspoon Fenugreek Seeds ,Salt ,Ghee ",
+ 
+    "recipe": "1.Make batter of urad dal & rice and add salt on it . 2.Turn on the heat to medium-high and add batter to the center of the pan ,spread the one spoon oil on it."
+    
+  } ,
+  {
+    "id": 1,
+    "name": "Poha",
+    "imagePath": "https://www.nithyas-kitchen.com/wp-content/uploads/2016/05/kanda-poha.1024x1024.jpg",
+    "ingrediant": " 1 Cup Poha , 1 tbsp Oil , 1/8 tsp Asafoetida ,1 tsp Mustard seeds , 1/2 cup Onions, 8-10 Curry leaves , 2-3 Whole red chillies , 1/2 tsp Turmeric , 2 tsp Salt , 1 tsp Green chillies ,Coriander leaves",
+    "recipe": " 1.Put poha in a colander and wash, not letting it soak too long in the water.  2.Heat the oil and add the asafoetida, mustard seeds, curry leaves and onions along with whole red chillies.  3.Add the turmeric and sauté over low heat .  5.Increase the heat, add salt and poha and mix well. Saute till mixed and heated through.  6.Shut off the heat, and mix in the green chillies, lemon juice and half of the coriander.  7.Transfer on to a serving dish."
+    
+  }  ,
+
+  {
+   "id": 1,
+    "name": "Upma",
+    "imagePath": "https://image.shutterstock.com/image-photo/image-450w-656299621.jpg",
+    "ingrediant": "3 Cups Rice ,1 Cup Urad Dal ,3/4 Teaspoon Fenugreek Seeds ,Salt ,Ghee ",
+ 
+    "recipe": ""
+    
+
+
+},
+{
+   "id": 3,
+    "name": "Gulab Jamun",
+    "imagePath": "https://smedia2.intoday.in/aajtak/images/stories/102015/gulam-jamun-pakwangali_520_102815120718.jpg?size=1200:675",
+    "ingrediant": "2 cups Sugar , 5 cups Water , 1 tsp Milk , 1/4 tsp Cardamom Seeds , 1/2 tsp Saffron , 1/2 tsp Cardamom Powder , 1/2 cups Khoya , 1/2 tsp Baking Soda , 1/2 cup Maida , 1 tsp Milk",
+ 
+    "recipe": "1. Take required quantity of sugar and water in a deep pan. Stir and bring to boil on high flame for sugar to dissolve.  2. Take the grated Khoya in a bowl and Add baking soda and maida. 3. Add a teaspoon of milk to it and knead all of them together to make a smooth and soft dough.  4. Now heat ghee in a pan over medium flame and add the Jamun balls to deep-fry them. Cook evenly until it becomes golden brown. 5. Then immerse the gulab jamuns in the warm sugar syrup for at least 30 minutes. It increases in size when it soaks the sugar syrup. "
+    },
+    
+{
+   "id": 3,
+    "name": "Gajar Ka Halwa",
+    "imagePath": "https://static.toiimg.com/photo/msid-73066382/73066382.jpg?201069",
+    "ingrediant": "1 Kg carrot , 1 1/2 litre milk , 8 Green cardamoms , 5-7 tbsp ghee , 5-7 tbsp sugar , 2 tbsp raisins , 1 tbsp almonds, shredded  2 tbsp dates, chopped",
+ 
+    "recipe": " 1. Peel and grate the carrots.  2.Simmer in milk with the cardamom until liquid evaporates.  3.Heat ghee in a heavy pan and add the carrot mixture.  4.Cook over a gentle flame for 10-15 minutes.  5.Stir in sugar and continue cooking until the halwa turns deep reddish color.  6.Stir in dried fruit and serve."
+    },
+
+{
+   "id": 2,
+    "name": "Chicken Biryani",
+    "imagePath": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/9/0/FNK_the-best-biryani_H.JPG.rend.hgtvcom.616.462.suffix/1568143107638.jpeg  ",
+    "ingrediant": "3 Cups Rice ,1 Cup Urad Dal ,3/4 Teaspoon Fenugreek Seeds ,Salt ,Ghee ",
+ 
+    "recipe": ""
+    
+},
+
+{
+   "id": 2,
+    "name": "Omelet",
+    "imagePath": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/gd4nitpjnycvkxhjymee",
+    "ingrediant": "15ml (1tbsp) sunflower or vegetable oil , 1 garlic clove, crushed , 2 spring onions , 1 medium tomato , medium green chilli , 1tsp medium curry powder , 1/2tsp garam masala , 2 eggs , 1tbsp fresh coriander ",
+ 
+    "recipe": " 1. Heat 1 tbsp of sunflower or vegetable oil in a 20.5cm (8in) nonstick frying pan and add 1 clove crushed garlic, 2 spring onions, 1 medium tomato and 1/2 medium green chilli, chopped. Cook for 2-3 minutes until soft. Add 1 tsp medium curry powder and 1/2 tsp garam masala and fry for a further minute. 2. Beat 2 eggs together in a small bowl and season. Add the egg mixture to the pan and swirl the pan until the omelette mixture is cooked underneath.   3. Carefully flip the omelette over and cook for 1-2 minutes, until golden. Scatter with 1 tbsp of fresh coriander and serve immediately."
+    
+}
+
+
+
+
+]

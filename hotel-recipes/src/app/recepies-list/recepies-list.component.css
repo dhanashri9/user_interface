@@ -1,0 +1,16 @@
+
+.image{
+	background-image: url("https://previews.123rf.com/images/1stchoice/1stchoice1303/1stchoice130300012/18441610-pink-white-flower-design-against-grey-background.jpg");
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.button-style{
+	font-size: 20px;
+	
+}
+.active{
+	background: yellow;
+}
